@@ -6,10 +6,10 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: Baseline tried; BRAND-001 scope and primary audience hypothesis recorded; brand name chosen; promise drafted; Everyperson archetype and three voice traits chosen; example line pending.
+- Stage: Baseline tried; BRAND-001 scope and primary audience hypothesis recorded; brand name chosen; promise drafted; Everyperson archetype, three voice traits, and example line drafted.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
 - Status: Issue #1 created; feature branch `feature/brand-001-first-storefront`; implementation pending.
-- Next small decision: Draft one example line in Staple Cut's voice.
+- Next small decision: Predict one likely effect of this brand direction on the intended audience.
 
 ## Product boundary
 
@@ -35,7 +35,7 @@ The primary need guides the page. Give the secondary card one contrasting need t
 | One-sentence promise                     | Learner draft: “The Zero-Thought daily uniform—a T-shirt so perfectly engineered in fit and comfort that you never have to think twice about putting it on.” Fit and engineering claims need factual support before use as product copy. |
 | Primary archetype: the brand's character | Everyperson (selected from AI-offered options) |
 | Three voice traits                       | Candid and direct (“No-Bullsh*t”); warm and relatable (“Comfy Chair”); confident and assured (“Expert Tailor,” a tone metaphor rather than a credential) |
-| One example line in this voice           | Not chosen yet |
+| One example line in this voice           | “It’s the first shirt you’ll reach for on Sunday morning, and the only one you’ll want to wear on Tuesday.” Draft; the absolute preference claim is unvalidated and should be reconsidered before storefront use. |
 | Learner's predicted audience effect      | Not chosen yet |
 
 ## Visual decision
