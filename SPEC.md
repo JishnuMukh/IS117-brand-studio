@@ -6,10 +6,10 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: Baseline tried; BRAND-001 scope agreed; primary audience hypothesis drafted; brand brief pending.
+- Stage: Baseline tried; BRAND-001 scope and primary audience hypothesis recorded; brand name chosen; brand brief in progress.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
 - Status: Issue #1 created; feature branch `feature/brand-001-first-storefront`; implementation pending.
-- Next small decision: Choose a brand name.
+- Next small decision: Draft a one-sentence promise for Staple Cut.
 
 ## Product boundary
 
@@ -31,7 +31,7 @@ The primary need guides the page. Give the secondary card one contrasting need t
 
 | Decision                                 | Agreement      |
 | ---------------------------------------- | -------------- |
-| Brand name                               | Not chosen yet |
+| Brand name                               | Staple Cut — chosen to signal a clean, everyday essential feel |
 | One-sentence promise                     | Not chosen yet |
 | Primary archetype: the brand's character | Not chosen yet |
 | Three voice traits                       | Not chosen yet |
