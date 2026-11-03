@@ -6,10 +6,10 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: Baseline tried; BRAND-001 scope and primary audience hypothesis recorded; brand name chosen; promise drafted; Everyperson archetype, three voice traits, and example line drafted.
+- Stage: Baseline tried; BRAND-001 scope agreed; primary audience and early brand brief drafted; audience effects predicted; visual exploration pending.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
 - Status: Issue #1 created; feature branch `feature/brand-001-first-storefront`; implementation pending.
-- Next small decision: Predict one likely effect of this brand direction on the intended audience.
+- Next small decision: Compare two annotated hero directions using identical product and copy.
 
 ## Product boundary
 
@@ -32,11 +32,11 @@ The primary need guides the page. Give the secondary card one contrasting need t
 | Decision                                 | Agreement      |
 | ---------------------------------------- | -------------- |
 | Brand name                               | Staple Cut — chosen to signal a clean, everyday essential feel |
-| One-sentence promise                     | Learner draft: “The Zero-Thought daily uniform—a T-shirt so perfectly engineered in fit and comfort that you never have to think twice about putting it on.” Fit and engineering claims need factual support before use as product copy. |
+| One-sentence promise                     | “Staple Cut is designed to be your no-thought daily uniform, with a focus on fit and comfort.” Learner approved this concept framing; it describes design intent. |
 | Primary archetype: the brand's character | Everyperson (selected from AI-offered options) |
 | Three voice traits                       | Candid and direct (“No-Bullsh*t”); warm and relatable (“Comfy Chair”); confident and assured (“Expert Tailor,” a tone metaphor rather than a credential) |
-| One example line in this voice           | “It’s the first shirt you’ll reach for on Sunday morning, and the only one you’ll want to wear on Tuesday.” Draft; the absolute preference claim is unvalidated and should be reconsidered before storefront use. |
-| Learner's predicted audience effect      | Not chosen yet |
+| One example line in this voice           | “It’s the first shirt you’ll reach for on Sunday morning, and the only one you’ll want to wear on Tuesday.” Aspirational concept copy; customer preference has not been tested. |
+| Learner's predicted audience effect      | Hypotheses: an automatic default may ease morning decision fatigue; fewer sensory distractions could support ease and confidence; consistent fit and feel might encourage loyalty. Fit, shape retention, softness, collar, and tag comfort are intended concept features; they are design goals, not measured test results. |
 
 ## Visual decision
 
