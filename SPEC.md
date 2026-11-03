@@ -6,10 +6,10 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 ## Current stage
 
-- Stage: Baseline ready to try; brand decisions pending.
+- Stage: Baseline tried; BRAND-001 scope agreed; primary audience hypothesis drafted; brand brief pending.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
-- Status: Pending learner scope agreement.
-- Next small decision: Confirm the first slice after trying the neutral storefront.
+- Status: Issue #1 created; feature branch `feature/brand-001-first-storefront`; implementation pending.
+- Next small decision: Choose a brand name.
 
 ## Product boundary
 
@@ -21,8 +21,8 @@ The primary need guides the page. Give the secondary card one contrasting need t
 
 | Tiny card                             | Primary audience          | Secondary audience        |
 | ------------------------------------- | ------------------------- | ------------------------- |
-| Person in a concrete situation        | Not chosen yet            | Not chosen yet            |
-| Goal or meaning they seek             | Not chosen yet            | Not chosen yet            |
+| Person in a concrete situation        | People seeking comfort for frequent casual wear: hot-Sunday errands, lounging at home, long flights, relaxed weekend brunch, or daily wear in warmer climates | Not chosen yet            |
+| Goal or meaning they seek             | Prioritize comfort across high-rotation daily wear | Not chosen yet            |
 | Concern before choosing               | Not chosen yet            | Not chosen yet            |
 | What the page should help them decide | Not chosen yet            | Not chosen yet            |
 | Evidence or assumption                | Assumption; not validated | Assumption; not validated |
@@ -84,7 +84,7 @@ Write a short result and link only evidence that exists. A passing browser check
 
 | Spec ID   | Files           | Issue / PR      | Actual checks and observations            |
 | --------- | --------------- | --------------- | ----------------------------------------- |
-| BRAND-001 | Not changed yet | Not created yet | Not run yet; learner observations pending |
+| BRAND-001 | No implementation changes yet | [Issue #1](https://github.com/JishnuMukh/IS117-brand-studio/issues/1) | `npm run check`: formatting, lint, and 7 server tests passed; 10 Chromium tests could not start because Playwright Chromium was missing. Learner reports seeing the neutral white T-shirt page, choosing a size, and adding it to the demo bag. |
 
 ## Later
 
