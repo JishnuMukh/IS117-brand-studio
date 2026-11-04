@@ -205,11 +205,12 @@ p + p {
 
 .brand-link {
   display: inline-block;
+  align-self: flex-start;
   flex-shrink: 0;
 }
 
 .wordmark {
-  width: 100px;
+  width: 60px;
   height: auto;
 }
 
@@ -1025,7 +1026,7 @@ legend {
   }
 
   .wordmark {
-    width: 90px;
+    width: 60px;
   }
 
   .main-nav {
