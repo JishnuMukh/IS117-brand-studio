@@ -209,7 +209,7 @@ p + p {
 }
 
 .wordmark {
-  width: 150px;
+  width: 100px;
   height: auto;
 }
 
@@ -733,13 +733,13 @@ legend {
   min-height: 230px;
   display: grid;
   place-items: center;
-  padding: 3rem;
+  padding: 1.25rem;
   background: var(--color-white);
   border: 1px solid var(--color-line);
 }
 
 .logo-board img {
-  width: min(100%, 380px);
+  width: min(100%, 210px);
 }
 
 .logo-variants {
@@ -769,7 +769,6 @@ legend {
 
 .logo-mono {
   width: 190px;
-  filter: brightness(0);
 }
 
 .logo-variant p,
@@ -1026,7 +1025,7 @@ legend {
   }
 
   .wordmark {
-    width: 130px;
+    width: 90px;
   }
 
   .main-nav {
