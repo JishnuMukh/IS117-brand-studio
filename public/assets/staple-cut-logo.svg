@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 162" role="img" aria-labelledby="title description">
+  <title id="title">Staple Cut one-color logo proposal</title>
+  <desc id="description">The interlocking S and C mark with a lowercase Staple Cut wordmark, rendered in one ink color.</desc>
+  <g fill="none" stroke="#171A18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149 18H101C84 18 75 27 75 42C75 57 85 66 101 66H121C137 66 146 76 146 90C146 104 136 113 120 113H34" stroke-width="15" />
+    <path d="M150 42H124C108 42 101 50 101 66C101 83 109 92 126 92H150" stroke-width="15" />
+    <circle cx="101" cy="66" r="10.5" fill="#171A18" stroke="none" />
+  </g>
+  <text x="90" y="151" text-anchor="middle" fill="#171A18"
+    font-family="system-ui, Arial, sans-serif"
+    font-size="28" font-weight="800" letter-spacing="-0.9">staple cut</text>
+</svg>

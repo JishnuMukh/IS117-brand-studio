@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 162" role="img" aria-labelledby="title description">
+  <title id="title">Staple Cut logo proposal: The Linked Incision</title>
+  <desc id="description">A cobalt blue angular S and crimson C interlock, with a deep purple center, above the rounded lowercase Staple Cut wordmark.</desc>
+  <defs>
+    <filter id="blue-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="red-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M149 18H101C84 18 75 27 75 42C75 57 85 66 101 66H121C137 66 146 76 146 90C146 104 136 113 120 113H34"
+      stroke="#285EFF" stroke-width="15" filter="url(#blue-glow)" />
+    <path d="M150 42H124C108 42 101 50 101 66C101 83 109 92 126 92H150"
+      stroke="#F04438" stroke-width="15" filter="url(#red-glow)" />
+    <circle cx="101" cy="66" r="10.5" fill="#4A238F" stroke="none" />
+  </g>
+  <text x="90" y="151" text-anchor="middle" fill="#171A18"
+    font-family="system-ui, Arial, sans-serif"
+    font-size="28" font-weight="800" letter-spacing="-0.9">staple cut</text>
+</svg>
