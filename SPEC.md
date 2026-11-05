@@ -8,8 +8,8 @@ This is the durable agreement between the learner and agent. Keep it concise and
 
 - Stage: Baseline tried; BRAND-001 scope agreed; primary audience and early brand brief drafted; audience effects predicted; modernist direction and one-color logo selected; neutral-and-cobalt identity now applied to storefront and live style guide.
 - Current feature: `BRAND-001` — first branded storefront and live style guide.
-- Status: Issue #1 created; feature branch `feature/brand-001-first-storefront`; the 60px one-color logo, shared neutral-and-cobalt palette, and initial Staple Cut storefront/style-guide copy are implemented. Two ethical persuasion applications and learner browser, keyboard, and mobile observations remain.
-- Next small decision: Choose the first useful, supportable persuasion application for the comfort-focused visitor.
+- Status: Issue #1 created; feature branch `feature/brand-001-first-storefront`; the 60px one-color logo, shared neutral-and-cobalt palette, and initial Staple Cut storefront/style-guide copy are implemented. One Unity application is selected and implemented; the second application and learner browser, keyboard, and mobile observations remain.
+- Next small decision: Identify which visible routine detail may help the intended visitor recognize the concept; then choose a second useful, supportable persuasion application.
 
 ## Product boundary
 
@@ -60,10 +60,10 @@ A simple original SVG wordmark is enough. Show small-size and one-color presenta
 
 Choose two applications that help the visitor make a voluntary, informed decision. Record their real implementation and mechanism rather than a principle name alone. Required size selection or validation alone does not establish consistency. Do not invent social proof, scarcity, authority, or product facts.
 
-| Principle      | Actual copy or interaction | Visitor benefit / factual support |
-| -------------- | -------------------------- | --------------------------------- |
-| Not chosen yet | Not chosen yet             | Not chosen yet                    |
-| Not chosen yet | Not chosen yet             | Not chosen yet                    |
+| Principle      | Actual copy or interaction                                                                                                           | Visitor benefit / factual support                                                                                                                                       |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Unity          | “For the days you already have” section names lounging, hot-Sunday errands, long flights, and relaxed brunch as intended situations. | May help a comfort-focused visitor recognize whether the concept fits their routine. These are learner-stated audience situations, not evidence of product performance. |
+| Not chosen yet | Not chosen yet                                                                                                                       | Not chosen yet                                                                                                                                                          |
 
 ## BRAND-001 — first branded storefront and live style guide
 
