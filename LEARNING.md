@@ -2,10 +2,10 @@
 
 AI-drafted task evidence, not a transcript or grade. This file may be public: review, correct or remove excerpts before commit/push.
 
-- **Feature:** BRAND-001 — scope agreed; modernist direction selected; one-color logo and neutral-cobalt palette applied; Unity and Reciprocity applications implemented; learner explanation and observations pending
+- **Feature:** BRAND-001 — scope agreed; modernist direction selected; one-color logo and neutral-cobalt palette applied; Unity and Reciprocity applications implemented; keep-or-revise decision pending
 - **Dates:** Started 2026-10-29; updated 2026-11-04
 - **Conversation context available:** This chat; earlier conversations are not included
-- **Review status:** Logo choice, visitor-benefit explanation, size and placement excerpt, palette choice, Unity and Reciprocity application excerpts, test interpretation, page-feedback and benefit-bullet excerpt, keyboard observation excerpt, and narrow-width observation excerpt were reviewed by learner on 2026-11-04.
+- **Review status:** Logo choice, visitor-benefit explanation, size and placement excerpt, palette choice, Unity and Reciprocity application excerpts, test interpretation, page-feedback and benefit-bullet excerpt, keyboard observation excerpt, narrow-width observation excerpt, and updated check-result excerpt were reviewed by learner on 2026-11-04.
 
 ## Student contributions
 
@@ -24,7 +24,7 @@ AI-drafted task evidence, not a transcript or grade. This file may be public: re
 ## AI work and evidence links
 
 - **Work performed by AI:** Read project guidance and startup docs; installed dependencies; ran baseline checks; created [feature issue #1](https://github.com/JishnuMukh/IS117-brand-studio/issues/1) and branch `feature/brand-001-first-storefront`; prepared the paired hero previews and translated the learner's colorful “Linked Incision” concept into color and one-color SVGs for review; applied the selected one-color SVG and later 60px top-left size to the storefront and style guide; applied the learner-selected neutral-and-cobalt palette and first brand copy pass to both pages; added the selected Unity routine cue and Reciprocity tee checklist, then added buyer-benefit bullets under each.
-- **Checks:** The baseline formatting, lint, and 7 server tests passed; 10 Chromium tests could not start because Playwright Chromium was missing. The learner supplied a Terminal run showing all checks passing. The agent's Codex rerun passed formatting/lint and all 7 server tests, but all 10 Playwright tests stopped before assertions because macOS denied Chromium browser-service registration.
+- **Checks:** The learner supplied an earlier Terminal run showing formatting, lint, 7 server tests, and 10 Chromium tests passed before the latest static-content edits. After the latest edits, learner reports rerunning `npm run check` and all checks passing; no fresh terminal output was included in this exchange. Agent reran full `npm run check`: formatting/lint and all 7 server tests passed, but Chromium could not launch, so the 10 Playwright tests stopped before assertions because macOS denied browser-service registration (`bootstrap_check_in` permission denied); the dev server also warned of `EMFILE` file-watcher exhaustion.
 - **SPEC and issue:** [SPEC.md](SPEC.md), [issue #1](https://github.com/JishnuMukh/IS117-brand-studio/issues/1).
 
-**Next step:** Decide whether to keep or revise the design based on your browser, keyboard, and narrow-width observations.
+**Next step:** Decide whether to keep or revise the design using your browser, keyboard, and narrow-width observations.
