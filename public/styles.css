@@ -302,6 +302,11 @@ p + p {
   color: var(--color-muted);
 }
 
+.routine-card-featured {
+  background: var(--color-accent-soft);
+  border-top-width: 4px;
+}
+
 .routine-card h3 {
   max-width: 220px;
   margin-top: 1.5rem;
