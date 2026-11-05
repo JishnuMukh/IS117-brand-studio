@@ -398,6 +398,10 @@ p + p {
   font-size: 0.78rem;
 }
 
+.checklist-benefits {
+  padding-block: 0.6rem;
+}
+
 .checklist-content ul {
   display: grid;
   gap: 0.35rem;
@@ -410,6 +414,30 @@ p + p {
   border-left: 3px solid var(--color-accent);
   background: var(--color-accent-soft);
   font-size: 0.72rem;
+}
+
+.benefit-list {
+  display: grid;
+  gap: 0.4rem;
+  margin: 0.65rem 0 0;
+  padding-left: 1.15rem;
+  font-size: 0.78rem;
+}
+
+.benefit-list li::marker {
+  color: var(--color-accent);
+}
+
+.routine-benefits {
+  max-width: 660px;
+  margin-top: 1.2rem;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid var(--color-accent);
+  background: var(--color-soft);
+}
+
+.routine-benefits .benefit-list {
+  grid-template-columns: 1fr 1fr;
 }
 
 .price-row {
@@ -1226,6 +1254,10 @@ legend {
 
   .routine-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .routine-benefits .benefit-list {
+    grid-template-columns: 1fr;
   }
 
   .starter-next > div {
