@@ -2,7 +2,7 @@
 
 AI-drafted task evidence, not a transcript or grade. This file may be public: review, correct or remove excerpts before commit/push.
 
-- **Feature:** BRAND-001 — scope agreed; modernist direction selected; one-color logo and neutral-cobalt palette applied; Unity and Reciprocity applications implemented; keep-or-revise decision pending
+- **Feature:** BRAND-001 — modernist direction selected; one-color logo and neutral-cobalt palette applied; Unity and Reciprocity applications implemented; learner chose to keep the result; PR #2 merged into `main` as `d2279d4`
 - **Dates:** Started 2026-10-29; updated 2026-11-04
 - **Conversation context available:** This chat; earlier conversations are not included
 - **Review status:** Logo choice, visitor-benefit explanation, size and placement excerpt, palette choice, Unity and Reciprocity application excerpts, test interpretation, page-feedback and benefit-bullet excerpt, keyboard observation excerpt, narrow-width observation excerpt, updated check-result excerpt, and keep-decision excerpt were reviewed by learner on 2026-11-04.
@@ -24,7 +24,7 @@ AI-drafted task evidence, not a transcript or grade. This file may be public: re
 ## AI work and evidence links
 
 - **Work performed by AI:** Read project guidance and startup docs; installed dependencies; ran baseline checks; created [feature issue #1](https://github.com/JishnuMukh/IS117-brand-studio/issues/1) and branch `feature/brand-001-first-storefront`; prepared the paired hero previews and translated the learner's colorful “Linked Incision” concept into color and one-color SVGs for review; applied the selected one-color SVG and later 60px top-left size to the storefront and style guide; applied the learner-selected neutral-and-cobalt palette and first brand copy pass to both pages; added the selected Unity routine cue and Reciprocity tee checklist, then added buyer-benefit bullets under each.
-- **Checks:** The learner supplied an earlier Terminal run showing formatting, lint, 7 server tests, and 10 Chromium tests passed before the latest static-content edits. After the latest edits, learner reports rerunning `npm run check` and all checks passing; no fresh terminal output was included in this exchange. Agent reran full `npm run check`: formatting/lint and all 7 server tests passed, but Chromium could not launch, so the 10 Playwright tests stopped before assertions because macOS denied browser-service registration (`bootstrap_check_in` permission denied); the dev server also warned of `EMFILE` file-watcher exhaustion.
+- **Checks:** The learner supplied a Terminal run on 2026-11-04 showing formatting, lint, 7 server tests, and 10 Chromium tests passed. The GitHub Actions run for the final PR contents also passed formatting, lint, all 7 server tests, and all 10 Chromium tests. Agent's local rerun passed formatting/lint and all 7 server tests, but Chromium could not launch because macOS denied browser-service registration (`bootstrap_check_in` permission denied); those 10 tests stopped before assertions. The local dev server also warned of `EMFILE` file-watcher exhaustion.
 - **SPEC and issue:** [SPEC.md](SPEC.md), [issue #1](https://github.com/JishnuMukh/IS117-brand-studio/issues/1).
 
-**Next step:** Prepare the feature PR and merge into `main`, as previously authorized. Verify the merge afterward.
+**Next step:** Choose one follow-up cycle, such as a brand story, a supported fit guide, or richer demo-bag behavior. Agree its scope and add a new spec ID before building.
